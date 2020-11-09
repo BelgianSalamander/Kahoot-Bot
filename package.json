@@ -1,0 +1,24 @@
+{
+  "name": "kahoot-bot",
+  "version": "1.0.0",
+  "description": "Epic",
+  "main": "kahootspam.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "kahoot.js-updated": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrNewdary/Kahoot-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrNewdary/Kahoot-Bot/issues"
+  },
+  "homepage": "https://github.com/MrNewdary/Kahoot-Bot#readme"
+}
